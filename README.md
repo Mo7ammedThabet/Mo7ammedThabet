@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mohammed Thabet</h1>
 <h3 align="center">A passionate backend developer from Palestine</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 <p align="left"> <a href="https://twitter.com/mo7mmednaser" target="blank"><img src="https://img.shields.io/twitter/follow/mo7mmednaser?logo=twitter&style=for-the-badge" alt="mo7mmednaser" /></a> </p>
 
