@@ -1,11 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Mohammed Thabet</h1>
-<h3 align="center">A passionate backend developer from Palestine</h3>
+<h1 align="center">I'm Mohammed Thabet 👋</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+-+Backend+Developer;&center=true&width=500&height=50"></a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/mo7mmednaser" target="blank"><img src="https://img.shields.io/twitter/follow/mo7mmednaser?logo=twitter&style=for-the-badge" alt="mo7mmednaser" /></a> </p>
-
-- 🌱 I’m currently learning **PHP Framework Laravel**
-
+- 🔭 I’m currently working on Laravel, 
+- 🌱 I’m currently learning ** python django**
 - 📫 How to reach me **mohammedthbet124@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
