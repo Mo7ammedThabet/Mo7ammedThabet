@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+-+Backend+Developer;&center=true&width=500&height=50"></a>
 </p>
 
-- 🔭 I’m currently working on Laravel, 
+- 🔭 I’m currently working on Backend Developer
 - 🌱 I’m currently learning ** python django**
 - 📫 How to reach me **mohammedthbet124@gmail.com**
 
