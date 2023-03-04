@@ -26,24 +26,20 @@
 <br>
 
 ## Languages and Tools
+
 <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="80px" height="auto"></img>
 <img src="https://www.svgrepo.com/show/452185/css-3.svg" width="80px" height="auto"></img>
 <img src="https://www.svgrepo.com/show/349419/javascript.svg" width="80px" height="auto"></img>
-<img src="https://www.svgrepo.com/show/303379/laravel-logo.svg" width="80px" height="auto"></img>
-<img src="https://www.svgrepo.com/show/452130/vue.svg" width="80px" height="auto"></img>
 <img src="https://www.svgrepo.com/show/452088/php.svg" width="80px" height="auto"></img>
 <img src="https://www.svgrepo.com/show/475696/wordpress-color.svg" width="80px" height="auto"></img>
+<img src="https://www.svgrepo.com/show/303379/laravel-logo.svg" width="80px" height="auto"></img>
 <img src="https://www.svgrepo.com/show/452210/git.svg" width="80px" height="auto"></img>
+<img src="https://www.svgrepo.com/show/452130/vue.svg" width="80px" height="auto"></img>
+<img src="https://www.svgrepo.com/show/373848/mysql.svg" width="80px" height="auto"></img>
 <img src="https://www.svgrepo.com/show/452122/ubuntu.svg" width="80px" height="auto"></img>
 <img src="https://www.svgrepo.com/show/373595/firebase.svg" width="80px" height="auto"></img>
 <img src="https://www.svgrepo.com/show/452091/python.svg" width="80px" height="auto"></img>
-<img src="https://www.svgrepo.com/show/373848/mysql.svg" width="80px" height="auto"></img>
 <img src="https://www.svgrepo.com/show/473611/flask.svg" width="80px" height="auto"></img>
-<img src="https://www.svgrepo.com/svg/378410/django-fill" width="80px" height="auto"></img>
-
-
-
-
 <br>
 
 
