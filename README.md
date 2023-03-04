@@ -36,10 +36,11 @@
 <img src="https://www.svgrepo.com/show/452210/git.svg" width="80px" height="auto"></img>
 <img src="https://www.svgrepo.com/show/452122/ubuntu.svg" width="80px" height="auto"></img>
 <img src="https://www.svgrepo.com/show/373595/firebase.svg" width="80px" height="auto"></img>
-<img src="https://www.svgrepo.com/show/353400/apache.svg" width="80px" height="auto"></img>
 <img src="https://www.svgrepo.com/show/452091/python.svg" width="80px" height="auto"></img>
 <img src="https://www.svgrepo.com/show/373848/mysql.svg" width="80px" height="auto"></img>
 <img src="https://www.svgrepo.com/show/473611/flask.svg" width="80px" height="auto"></img>
+<img src="[https://www.svgrepo.com/show/473611/flask.svg](https://www.svgrepo.com/svg/378410/django-fill)" width="80px" height="auto"></img>
+
 
 
 
