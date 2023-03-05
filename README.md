@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi 👋,I'm Mohammed Thabet</h1>
-  <h3> An Back-End Developer </h3>
+  <h3> Back-End Developer </h3>
  <a href="https://www.linkedin.com/in/mohammed-thabet-494339225/">
    <img
         src="https://img.shields.io/static/v1?logo=linkedin&style=for-the-badge&color=DC143C&label=LinkedIn&message=%E2%98%86"
