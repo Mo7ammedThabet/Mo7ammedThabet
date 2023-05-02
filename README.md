@@ -14,7 +14,7 @@
 <br>
 
 - 🔭 I’m currently working on Backend Developer
-- 🌱 I’m currently learning "python django"
+- 🌱 I’m currently learning "SOLID principles"
 - 📫 How to reach me **mohammedthbet124@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
